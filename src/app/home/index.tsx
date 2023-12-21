@@ -89,7 +89,7 @@ export const Home = () => {
           <Grid.Col h={"100%"} span={12} lg={6} className={"home-left"}>
             <div>
               <Title mb={52} className={"home-title"} color={"#fff"} fz={84} fw={700} lh={"76px"}
-                     order={1}>Learn, play <br/> and earn br
+                     order={1}>Learn, play <br/> and earn
                 real rewards.</Title>
               <Text fz={36} lh={"40px"} fw={400} color={"#fff"}>Learn, play, and earn real
                 rewards <br/> in over 20 trivia game modes.</Text>
